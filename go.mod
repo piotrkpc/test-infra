@@ -17,12 +17,12 @@ replace (
 )
 
 require (
-	cloud.google.com/go/bigquery v1.27.0
+	cloud.google.com/go/bigquery v1.38.0
 	cloud.google.com/go/firestore v1.6.1
 	cloud.google.com/go/functions v1.1.0
 	cloud.google.com/go/logging v1.4.2
 	cloud.google.com/go/pubsub v1.18.0
-	cloud.google.com/go/storage v1.20.0
+	cloud.google.com/go/storage v1.23.0
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0
 	github.com/Masterminds/sprig v2.22.0+incompatible
@@ -58,8 +58,8 @@ require (
 	github.com/tidwall/gjson v1.14.0
 	github.com/vrischmann/envconfig v1.3.0
 	go.uber.org/zap v1.19.0
-	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
-	google.golang.org/api v0.68.0
+	golang.org/x/oauth2 v0.0.0-20220622183110-fd043fe589d2
+	google.golang.org/api v0.92.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	k8s.io/api v0.22.2
